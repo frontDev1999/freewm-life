@@ -1,4 +1,6 @@
-baseURL = 'https://frontdev1999.github.io/freewm-life/'
+baseURL = '/'
+relativeURLs = true
+canonifyURLs = false
 locale = 'en-us'
 languageCode = 'zh-cn'
 title = 'freewm'
