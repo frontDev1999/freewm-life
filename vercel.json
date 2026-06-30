@@ -1,0 +1,14 @@
+{
+  "build": {
+    "env": {
+      "HUGO_EXTENDED": "true",
+      "HUGO_VERSION": "0.140.0"
+    }
+  },
+  "rewrites": [
+    {
+      "source": "/:path*",
+      "destination": "/:path*.html"
+    }
+  ]
+}
