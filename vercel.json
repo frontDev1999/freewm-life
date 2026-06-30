@@ -2,7 +2,7 @@
   "build": {
     "env": {
       "HUGO_EXTENDED": "true",
-      "HUGO_VERSION": "0.140.0"
+      "HUGO_VERSION": "0.146.0"
     }
   },
   "rewrites": [
