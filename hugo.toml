@@ -1,0 +1,5 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+languageCode = 'zh-cn'
+title = 'freewm'
+theme = "PaperMod"
