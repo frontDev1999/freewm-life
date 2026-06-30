@@ -1,10 +1,9 @@
----
-title: "Hello World"
-date: 2026-06-30T10:00:00+08:00
-draft: false # 关键！false 才会打包上线，true 是草稿，线上不显示
-tags: ["测试", "Hugo"]
-categories: "教程"
----
++++
+date = '2026-06-30T18:19:51+08:00'
+draft = false
+title = 'Hello World'
+tags = ["Hugo"]
++++
 
 # Hello World
 
